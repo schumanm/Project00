@@ -13,11 +13,11 @@ TODO: Modify this software so that your team will be added to the course with ea
       Team names will be Team1, Team2, Team3, Team4 ... etc. as assigned in class.
  */
 
-package Project00;
+package Project00dev;
 
 import java.util.*;
-import Project00.TeamCool;
-import Project00.Member;
+import Project00dev.TeamCool;
+import Project00dev.Member;
 
 public class Main {
 
